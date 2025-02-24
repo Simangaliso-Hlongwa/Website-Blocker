@@ -1,0 +1,10 @@
+{
+  "name": "Testing Extensions",
+  "description": "Base Level Extension for Web_Blocker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action":{
+    "default_popup": "Index.html",
+    "default_icon": "icon.png"
+  }
+}
