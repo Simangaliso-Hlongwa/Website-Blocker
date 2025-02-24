@@ -1,5 +1,5 @@
 // Initialize the list of blocked hosts
-let blockedHosts = ["example.com", "example.org"];
+let blockedHosts = ["example.com", "www.example.com"];
 
 // Set the default list on installation.
 browser.runtime.onInstalled.addListener(details => {
